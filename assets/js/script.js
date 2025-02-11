@@ -103,6 +103,7 @@ function scrollToContact() {
   contactSection.scrollIntoView({ behavior: 'smooth' })
 }
 
+
 function downloadResume() {
   var resumeLink = "https://drive.google.com/file/d/1SYe1ju5e4H4atHxoJTpJnVNGl3C_0arl/view?usp=drive_link";
   window.open(resumeLink, "_blank");
