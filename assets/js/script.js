@@ -104,11 +104,11 @@ function scrollToContact() {
 }
 
 function downloadResume() {
-  var resumeLink = "https://drive.google.com/file/d/11k3XBrZ8jyw1XmtAQI54t47QPM7c2mFs/view?usp=drive_link";
+  var resumeLink = "https://drive.google.com/file/d/1SYe1ju5e4H4atHxoJTpJnVNGl3C_0arl/view?usp=drive_link";
   window.open(resumeLink, "_blank");
 }
 
 // function redirectToGithub() {
-//   var githubLink = "https://github.com/manan05";
+//   var githubLink = "https://github.com/";
 //   window.open(githubLink, "_blank");
 // }
